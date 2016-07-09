@@ -1,0 +1,20 @@
+[
+  {
+    "id" : 1,
+    "name" : "Hardware Repair",
+    "description" : "Sed sit amet ex imperdiet, lobortis leo sit amet, tempus   magna. Proin venenatis leo leo, non accumsan est ullamcorper non. Nam efficitur massa nec arcu ultrices, sed scelerisque mi accumsan. Curabitur at dignissim purus. Suspendisse faucibus dignissim ante eu sollicitudin. Fusce malesuada ligula ac neque fringilla iaculis. Nullam varius eros nunc, eu accumsan metus aliquam at. Duis at risus augue. Praesent consectetur nibh a ante ullamcorper, eget vehicula est eleifend. In massa sapien, sodales a massa at, efficitur interdum nibh. Suspendisse potenti. Integer maximus luctus erat sed posuere. Morbi auctor elit ut tortor faucibus viverra. Proin eleifend neque sit amet rutrum lacinia. Proin non lorem in purus accumsan rhoncus. Quisque congue neque sagittis metus venenatis, at maximus purus eleifend.",
+    "image" : "repair.jpeg" 
+  },
+    {
+    "id" : 2,
+    "name" : "Virus Removal",
+    "description" : "Sed sit amet ex imperdiet, lobortis leo sit amet, tempus   magna. Proin venenatis leo leo, non accumsan est ullamcorper non. Nam efficitur massa nec arcu ultrices, sed scelerisque mi accumsan. Curabitur at dignissim purus. Suspendisse faucibus dignissim ante eu sollicitudin. Fusce malesuada ligula ac neque fringilla iaculis. Nullam varius eros nunc, eu accumsan metus aliquam at. Duis at risus augue. Praesent consectetur nibh a ante ullamcorper, eget vehicula est eleifend. In massa sapien, sodales a massa at, efficitur interdum nibh. Suspendisse potenti. Integer maximus luctus erat sed posuere. Morbi auctor elit ut tortor faucibus viverra. Proin eleifend neque sit amet rutrum lacinia. Proin non lorem in purus accumsan rhoncus. Quisque congue neque sagittis metus venenatis, at maximus purus eleifend.",
+    "image" : "repair.jpeg" 
+  },
+    {
+    "id" : 3,
+    "name" : "System TuneUp",
+    "description" : "Sed sit amet ex imperdiet, lobortis leo sit amet, tempus   magna. Proin venenatis leo leo, non accumsan est ullamcorper non. Nam efficitur massa nec arcu ultrices, sed scelerisque mi accumsan. Curabitur at dignissim purus. Suspendisse faucibus dignissim ante eu sollicitudin. Fusce malesuada ligula ac neque fringilla iaculis. Nullam varius eros nunc, eu accumsan metus aliquam at. Duis at risus augue. Praesent consectetur nibh a ante ullamcorper, eget vehicula est eleifend. In massa sapien, sodales a massa at, efficitur interdum nibh. Suspendisse potenti. Integer maximus luctus erat sed posuere. Morbi auctor elit ut tortor faucibus viverra. Proin eleifend neque sit amet rutrum lacinia. Proin non lorem in purus accumsan rhoncus. Quisque congue neque sagittis metus venenatis, at maximus purus eleifend.",
+    "image" : "repair.jpeg" 
+  }
+]
